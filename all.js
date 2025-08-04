@@ -13,8 +13,10 @@ const numbers =[1,2,3,4,5,6]
 //console.log(numbers.pop(3));
 //console.log(numbers.shift(5));
 //console.log(numbers.pop(2));
+/*
 (let i=0; i < numbers.length; i++){
     console.log(number);
 }
 // map,filter,reduce
 // 
+*/
